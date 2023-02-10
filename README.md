@@ -1,4 +1,4 @@
 # openstack
 script install openstack
 
-# SCRIPT AINDA N
+# Script não finalizado
